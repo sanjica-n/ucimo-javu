@@ -1,8 +1,8 @@
-# ucimo-javu
+# Učimo Javu
 
 ## Instalacija
 
-Instalacija je najteži deo učenja Jave :) Kad to uspete, već ste na pola puta.
+Instalacija je najteži korak učenja [Jave](https://java.com/en/download/) :) Kad to uspete, već ste na pola puta.
 
 ## Kompajliranje i pokretanje
 
