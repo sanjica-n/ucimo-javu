@@ -6,7 +6,7 @@ Instalacija je najteži korak učenja [Jave](https://java.com/en/download/) :) K
 
 ## Kompajliranje i pokretanje
 
-Izvorni Java fajl ima ekstenziju `.java`. Izvorni kod kompajliramo komandom `javac` (skraćeno od *Java compiler*):
+Izvorni Java fajlovi imaju ekstenziju `.java`. Izvorni kod kompajliramo komandom `javac` (skraćeno od *Java compiler*):
 
 ```java
 javac Zdravo.java
