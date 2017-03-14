@@ -22,3 +22,5 @@ Kao rezultat dobijamo kompajlirani fajl `Zdravo.class`, koji pokrećemo komandom
 ```
 java Zdravo
 ```
+
+Konvencija je da nazivi fajla budu isti kao nazivi klase u njemu.
