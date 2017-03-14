@@ -2,7 +2,12 @@
 
 ## Instalacija
 
-Instalacija je najteži korak učenja [Jave](https://java.com/en/download/) :) Kad to uspete, već ste na pola puta.
+Instalacija je najteži korak učenja [Jave](https://java.com/en/download/) :) Kad to uspete, već ste na pola puta. Na linuxu može ovako:
+
+```
+sudo apt-get install default-jre
+sudo apt-get install default-jdk
+```
 
 ## Kompajliranje i pokretanje
 
