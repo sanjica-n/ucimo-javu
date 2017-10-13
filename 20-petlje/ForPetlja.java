@@ -2,7 +2,7 @@ class ForPetlja {
   public static void main (String args[]) {
 
     int i;
-    for (i = 0; i < 50; i = i+1) {
+    for (i = 0; i < 50; i++) {
       System.out.println(i);
     }
 
