@@ -4,9 +4,9 @@ public class PorediStrune2 {
     String struna1 = "hello"; // String literal
     String struna2 = new String("hello"); // String object
 
-    // reference equality (are the same object)
+    // poredi po referenci (jel isti objekat)
     System.out.println(struna1 == struna2);
-    // value equality
+    // poredi po vrednosti
     System.out.println(struna1.equals(struna2));
   }
 

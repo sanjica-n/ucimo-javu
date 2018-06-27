@@ -7,7 +7,7 @@ public class PretraziStrunu2 {
       if (index == - 1) {
          System.out.println("Rec nije pronadjena.");
       } else {
-         System.out.println("Rec se zavrsava na indexu " + index);
+         System.out.println("Zadnje pojavljivanje reci je na indexu " + index);
       }
 
    }

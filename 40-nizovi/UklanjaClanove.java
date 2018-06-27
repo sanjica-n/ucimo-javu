@@ -8,11 +8,11 @@ public class UklanjaClanove {
       lista.add(0,"nulti član");
       lista.add(1,"prvi član");
       lista.add(2,"drugi član");
-      System.out.println("Pre čistke članova: " + lista);
+      System.out.println("Pre uklanjanja članova: " + lista);
 
       lista.remove("nulti član");
-      lista.remove(1);
-      System.out.println("Nakon čistke članova: " + lista);
+      lista.remove(1); // uklanja drugi preostali
+      System.out.println("Nakon uklanjanja članova: " + lista);
 
    }
 }
