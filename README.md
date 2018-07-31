@@ -1,5 +1,7 @@
 # Učimo Javu
 
+Vidi još [Učimo OOP Javu](https://github.com/skolakoda/ucimo-javu-oop)
+
 ## Instalacija
 
 Instalacija je najteži korak učenja [Jave](https://java.com/en/download/) :) Kad to uspete, već ste na pola puta. Na linuxu može ovako:
